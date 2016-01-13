@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:2:70
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:2:146
+	android:versionCode
+		ADDED from AndroidManifest.xml:2:172
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	android:installLocation
+		ADDED from AndroidManifest.xml:2:196
+	android:theme
+		ADDED from AndroidManifest.xml:2:98
+uses-sdk
+ADDED from AndroidManifest.xml:3:3
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:3:40
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:3:13
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-feature#android.hardware.camera
+ADDED from AndroidManifest.xml:4:3
+	android:name
+		ADDED from AndroidManifest.xml:4:17
+supports-screens
+ADDED from AndroidManifest.xml:5:3
+	android:largeScreens
+		ADDED from AndroidManifest.xml:5:78
+	android:smallScreens
+		ADDED from AndroidManifest.xml:5:21
+	android:normalScreens
+		ADDED from AndroidManifest.xml:5:49
+	android:xlargeScreens
+		ADDED from AndroidManifest.xml:5:106
+	android:anyDensity
+		ADDED from AndroidManifest.xml:5:135
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:6:3
+	android:name
+		ADDED from AndroidManifest.xml:6:20
+uses-permission#android.permission.CAMERA
+ADDED from AndroidManifest.xml:7:3
+	android:name
+		ADDED from AndroidManifest.xml:7:20
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:8:3
+	android:name
+		ADDED from AndroidManifest.xml:8:20
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:9:3
+	android:name
+		ADDED from AndroidManifest.xml:9:20
+application
+ADDED from AndroidManifest.xml:10:3
+	android:label
+		ADDED from AndroidManifest.xml:10:50
+	android:debuggable
+		ADDED from AndroidManifest.xml:10:142
+	android:icon
+		ADDED from AndroidManifest.xml:10:16
+	android:banner
+		ADDED from AndroidManifest.xml:10:191
+	android:theme
+		ADDED from AndroidManifest.xml:10:83
+	android:isGame
+		ADDED from AndroidManifest.xml:10:169
+activity#com.Zarate.ARDemo.UnityPlayerNativeActivity
+ADDED from AndroidManifest.xml:11:5
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:11:48
+	android:label
+		ADDED from AndroidManifest.xml:11:15
+	android:launchMode
+		ADDED from AndroidManifest.xml:11:87
+	android:configChanges
+		ADDED from AndroidManifest.xml:11:119
+	android:name
+		ADDED from AndroidManifest.xml:11:277
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:12:7
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:13:9
+	android:name
+		ADDED from AndroidManifest.xml:13:17
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:14:9
+	android:name
+		ADDED from AndroidManifest.xml:14:19
+meta-data#unityplayer.UnityActivity
+ADDED from AndroidManifest.xml:16:7
+	android:value
+		ADDED from AndroidManifest.xml:16:59
+	android:name
+		ADDED from AndroidManifest.xml:16:18
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from AndroidManifest.xml:17:7
+	android:value
+		ADDED from AndroidManifest.xml:17:73
+	android:name
+		ADDED from AndroidManifest.xml:17:18
+activity#com.unity3d.player.VideoPlayer
+ADDED from AndroidManifest.xml:19:5
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:19:94
+	android:label
+		ADDED from AndroidManifest.xml:19:61
+	android:configChanges
+		ADDED from AndroidManifest.xml:19:131
+	android:name
+		ADDED from AndroidManifest.xml:19:15
+uses-library#com.ti.s3d
+ADDED from AndroidManifest.xml:26:5
+	android:required
+		ADDED from AndroidManifest.xml:26:45
+	android:name
+		ADDED from AndroidManifest.xml:26:19
+uses-library#com.osterhoutgroup.api.ext
+ADDED from AndroidManifest.xml:30:5
+	android:required
+		ADDED from AndroidManifest.xml:30:61
+	android:name
+		ADDED from AndroidManifest.xml:30:19
+uses-feature#0x00020000
+ADDED from AndroidManifest.xml:32:3
+	android:glEsVersion
+		ADDED from AndroidManifest.xml:32:17
+uses-feature#android.hardware.camera.autofocus
+ADDED from AndroidManifest.xml:33:3
+	android:required
+		ADDED from AndroidManifest.xml:33:66
+	android:name
+		ADDED from AndroidManifest.xml:33:17
+uses-feature#android.hardware.camera.front
+ADDED from AndroidManifest.xml:34:3
+	android:required
+		ADDED from AndroidManifest.xml:34:62
+	android:name
+		ADDED from AndroidManifest.xml:34:17
+uses-feature#android.hardware.touchscreen
+ADDED from AndroidManifest.xml:35:3
+	android:required
+		ADDED from AndroidManifest.xml:35:61
+	android:name
+		ADDED from AndroidManifest.xml:35:17
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from AndroidManifest.xml:36:3
+	android:required
+		ADDED from AndroidManifest.xml:36:72
+	android:name
+		ADDED from AndroidManifest.xml:36:17
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from AndroidManifest.xml:37:3
+	android:required
+		ADDED from AndroidManifest.xml:37:81
+	android:name
+		ADDED from AndroidManifest.xml:37:17

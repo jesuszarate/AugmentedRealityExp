@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jesuszarate/AndroidStudioProjects/ARDemo/app/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="54a122d7821427a825ac34326d04a55f7a6f1002">
+        <dex dex="/Users/jesuszarate/AndroidStudioProjects/ARDemo/app/build/intermediates/pre-dexed/debug/unity-classes-7bac42a5fcd337a1dbd53e7cf7d9e6000f9b9028.jar" />
+    </item>
+    <item
+        jar="/Users/jesuszarate/AndroidStudioProjects/ARDemo/app/libs/Vuforia.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="500d47b88780a30e82f64e8fbcc96a2032edaab9">
+        <dex dex="/Users/jesuszarate/AndroidStudioProjects/ARDemo/app/build/intermediates/pre-dexed/debug/Vuforia-c293210d4e71988b097847025b0cbdb774037d87.jar" />
+    </item>
+    <item
+        jar="/Users/jesuszarate/AndroidStudioProjects/ARDemo/app/libs/QCARUnityPlayer.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="03e3b90ea7fc2857313d3b26438001fdc6e9836e">
+        <dex dex="/Users/jesuszarate/AndroidStudioProjects/ARDemo/app/build/intermediates/pre-dexed/debug/QCARUnityPlayer-6997316a9b82cd37409bda4175577402a4eb1d87.jar" />
+    </item>
+
+</items>
